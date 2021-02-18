@@ -2,7 +2,7 @@
 The task is to write lexical analyzer and parser for "for loop" in C-like languages.
 
 ### How to run?
-To run parser, which generates output for visualization for [WebGraphViz](webgraphviz.com) do:
+To run parser, which generates output for visualization for [WebGraphViz](http://www.webgraphviz.com) do:
 ```java
 bash run.sh
 ```
