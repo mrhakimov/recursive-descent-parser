@@ -2,7 +2,7 @@
 The task is to write lexical analyzer and parser for "for loop" in C-like languages.
 
 ### Grammar
-Grammar and FIRST- and FOLLOW-sets are explained [here](Grammar.pdf)
+Grammar and FIRST- and FOLLOW-sets are explained [here](Grammar.pdf).
 
 ### How to run?
 To run parser, which generates output for visualization for [WebGraphViz](http://www.webgraphviz.com) do:
